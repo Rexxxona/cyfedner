@@ -13,7 +13,7 @@ Kontrole igre
 
 **MENIJI**
 
-* w/s: pomeranje kursora
+* w/s: pomjeranje kursora
 * enter/return: potvrda izbora ili unos rezultata
 
 **IGRA**
